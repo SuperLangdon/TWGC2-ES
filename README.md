@@ -7,4 +7,4 @@ If you want to play the first one of this game (i.e. the original version), you 
 
 [Trace of Wind Chapter 1](https://tracewindgame.nt3.games) | [source code](https://github.com/NT3Games/TraceWindGame)
 
-All rights to this project (including but not limited to the game script) belong to all members of [NT3 Games](https://github.com/NT3Games).
+All rights to this project (including but not limited to modify, copy, update, delete and etc.) belong to all members of [NT3 Games](https://github.com/NT3Games).
