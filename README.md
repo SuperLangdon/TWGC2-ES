@@ -1,5 +1,5 @@
 # TWGC2-ES
-This is the plot of the chapter 2 of the game 'Trace of Wind', just in the early stage, just my personal recreation of the origin script. 
+This project is the plot of the chapter 2 of the game 'Trace of Wind', just in the early stage, just my personal recreation of the origin script. 
 
 'Trace of Wind' is a text adventure game with TraceWind (a.k.a "风痕") as the main character, developed on the [Ink](https://www.inklestudios.com/ink/) engine.
 
